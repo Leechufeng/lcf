@@ -1,11 +1,11 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  # 海云智评AI阅卷原型 (Copy)
 
-  <h1>Built with AI Studio</h2>
+  This is a code bundle for 海云智评AI阅卷原型 (Copy). The original project is available at https://www.figma.com/design/vAfHfLpHAtRulcDNc0xmlk/%E6%B5%B7%E4%BA%91%E6%99%BA%E8%AF%84AI%E9%98%85%E5%8D%B7%E5%8E%9F%E5%9E%8B--Copy-.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+  ## Running the code
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+  Run `npm i` to install the dependencies.
 
-</div>
+  Run `npm run dev` to start the development server.
+  
